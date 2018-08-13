@@ -12,4 +12,9 @@ public class GitController {
 		return "hrllo git";
 	}
 	
+	public String git(){
+		System.out.println("git!git!git!git!git!");
+		return null;
+	}
+	
 }

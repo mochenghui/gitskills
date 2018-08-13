@@ -13,7 +13,7 @@ public class GitController {
 	}
 	
 	public String git(){
-		System.out.println("git!git!git!git!git!");
+		System.out.println("git!git!git!git!");
 		return null;
 	}
 	
